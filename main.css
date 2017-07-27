@@ -15,7 +15,7 @@ margin-top:10px;
 margin-bottom:10px;
 margin-left:auto;
 margin-right:auto;
-background-image:url("file:///Milena /images/fhd2.jpg");
+background-image:url("./images/fhd2.jpg");
 background-repeat:no-repeat;
 padding:0px;
 height:112px;
@@ -32,7 +32,7 @@ color:#960;
 {
 margin-left:auto;
 margin-right:auto;
-background-image:url("file:///Milena /images/lens.jpg");
+background-image:url("./images/lens.jpg");
 background-repeat:no-repeat;
 padding:10px;
 color:#996600;
